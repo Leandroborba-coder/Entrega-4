@@ -1,0 +1,41 @@
+.list{
+    width: 35%;
+    background-color: darkolivegreen;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+
+}
+
+.list ul{
+    list-style: none;
+    padding: 0%;
+    width: 100%;
+
+}
+
+.list ul li{
+    padding-left: 10%;
+    display: flex;
+    align-items: center;
+    height: 30px;
+
+
+}
+
+.list ul li :first-child{
+    background-color: rgb(81, 214, 255);
+}
+
+.aula1{
+    background-color:rgb(51,225,248);
+
+}
+
+.aula2{
+    background-color: rgb(255, 137, 206);
+}
+
+.aula3{
+    background-color: yellow;
+}

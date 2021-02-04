@@ -1,0 +1,58 @@
+.main{
+    width: 95%;
+    margin: 5px auto;
+    text-align: right;
+}
+
+.textopadrao{
+    margin-top: 2em;
+    border-bottom: 2px solid green;
+
+}
+
+
+.main-header{
+    background-color: lightgray;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin: 30px auto;
+    justify-content: space-between;
+
+
+}
+
+.main-header-container1{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid green;
+
+
+}
+
+.margemh4{
+    margin: 5px;
+    font-weight: bold;
+
+}
+
+.infolateral{
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+
+
+}
+
+.main-header h4{
+    margin: 20px;
+
+}
+
+.main-container{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+
+
+}

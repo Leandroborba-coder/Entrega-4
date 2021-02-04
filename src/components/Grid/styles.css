@@ -1,0 +1,45 @@
+.grid-container{
+    width: 40%;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+
+
+}
+
+.grid-container div{
+    /*border: 1px solid gray;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+*/
+}
+
+.hora{
+    height: 2em;
+    font-size: 1.5em;
+
+}
+
+table{
+    width: 30em;
+    height: 15em;
+
+}
+
+td, th{
+    border: 1px solid gray;
+    padding-right: 2em;
+    align-items: center;
+}
+
+td{
+    height: 5em;
+}
+
+.horarios{
+    display: flex;
+    flex-direction: column;
+    margin-right: 1em;
+    justify-content: space-around;  
+
+}
